@@ -1,0 +1,28 @@
+{
+  "demos": [
+    {
+      "title": "Microsoft Window 10 UI",
+      "desc": "When you have your windows 10 desktop on web browser",
+      "preview": "https://georgechenzj.github.io/static/win10example1.png",
+      "link": "https://georgechenzj.github.io/win10reactv1/"
+    },
+    {
+      "title": "Rubic's Cube",
+      "desc": "No one has ever discovered all the endings by self. Extremely hard for mortal minds, but only harder for a machine.",
+      "preview": "https://georgechenzj.github.io/static/rubicexample1.png",
+      "link": "https://georgechenzj.github.io/rubikscube/"
+    },
+    {
+      "title": "",
+      "desc": "",
+      "preview": "",
+      "link": ""
+    },
+    {
+      "title": "Review of “It’s About Time: Smartwatches as Public Displays",
+      "desc": "This paper is to review the article, “It’s About Time: Smartwatches as Public Displays”, by Pearson et al. The article presents...",
+      "preview": "",
+      "link": "https://georgechenzj.github.io/rubikscube/"
+    }
+  ]
+}
