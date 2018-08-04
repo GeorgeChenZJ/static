@@ -13,10 +13,10 @@
       "link": "https://georgechenzj.github.io/rubikscube/"
     },
     {
-      "title": "",
-      "desc": "",
-      "preview": "",
-      "link": ""
+      "title": "Deep Learning for Brain Tumour Detection with Experimental Segmentation",
+      "desc": "A tumour MRI images study",
+      "preview": "https://georgechenzj.github.io/static/tumour_seg.png",
+      "link": "https://georgechenzj.github.io/brainmr1/"
     },
     {
       "title": "Review of “It’s About Time: Smartwatches as Public Displays",
