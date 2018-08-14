@@ -1,7 +1,7 @@
 {
   "demos": [
     {
-      "title": "Microsoft Window 10 UI",
+      "title": "Microsoft Windows 10 UI",
       "desc": "When you have your windows 10 desktop on web browser",
       "preview": "https://georgechenzj.github.io/static/win10example1.png",
       "link": "https://georgechenzj.github.io/win10reactv1/"
