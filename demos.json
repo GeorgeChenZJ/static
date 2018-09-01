@@ -13,16 +13,22 @@
       "link": "https://georgechenzj.github.io/rubikscube/"
     },
     {
-      "title": "Deep Learning for Brain Tumour Detection with Experimental Segmentation",
-      "desc": "A tumour MRI images study",
-      "preview": "https://georgechenzj.github.io/static/tumour_seg.png",
-      "link": "https://georgechenzj.github.io/brainmr1/"
+      "title": "Machine Learning for in vivo gliomas IDH-mutation status prediction based on Multi-parametric MR Images",
+      "desc": "Use SVM and 3-D CNN to predict gliomas IDH-mutation status",
+      "preview": "https://georgechenzj.github.io/static/IDH.jpg",
+      "link": "https://georgechenzj.github.io/idh-prediction/"
     },
     {
       "title": "Review of “It’s About Time: Smartwatches as Public Displays",
       "desc": "This paper is to review the article, “It’s About Time: Smartwatches as Public Displays”, by Pearson et al. The article presents...",
       "preview": "",
       "link": "https://georgechenzj.github.io/reviewosw/"
+    },
+    {
+      "title": "Deep Learning for Brain Tumour Detection with Experimental Segmentation",
+      "desc": "A tumour MRI images study",
+      "preview": "https://georgechenzj.github.io/static/tumour_seg.png",
+      "link": "https://georgechenzj.github.io/brainmr1/"
     }
   ]
 }
