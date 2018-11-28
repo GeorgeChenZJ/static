@@ -7,6 +7,12 @@
       "link": "https://georgechenzj.github.io/win10reactv1/"
     },
     {
+      "title": "Draw A Car",
+      "desc": "The Conditional GAN. Pick the colour for your innovatively designed car.",
+      "preview": "https://georgechenzj.github.io/static/draw-a-car.png",
+      "link": "https://georgezjchen.github.io/draw-a-car-build/"
+    },
+    {
       "title": "Rubic's Cube",
       "desc": "No one has ever discovered all the endings by self. Extremely hard for mortal minds, but only harder for a machine.",
       "preview": "https://georgechenzj.github.io/static/rubicexample1.png",
